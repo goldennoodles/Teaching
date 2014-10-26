@@ -6,7 +6,7 @@ void Update ()
 {
   if(input.getkeybutton(keycode.W)
   {
-                    //x , y , z
+  //x , y , z
     transform.postion = new.Vector3(10,20,30)
 }
 
