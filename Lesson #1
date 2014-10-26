@@ -1,0 +1,13 @@
+This is your first lesson bro. I need to see how much you know and what you dont.
+
+This is a simple code that has a few bugs, i want you to figure out how to fix them.
+
+void Update () 
+{
+  if(input.getkeybutton(keycode.W)
+  {
+                    //x , y , z
+    transform.postion = new.Vector3(10,20,30)
+}
+
+Create the new script bellow.
